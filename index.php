@@ -67,8 +67,8 @@
         <div class="container">
             <ul>
                 <li><a href="#surabaya" class="active">Surabaya</a></li>
-                <li><a href="#makassar">Makassar</a></li>
-                <li><a href="#semarang">Semarang</a></li>
+                <li><a href="#makassar" class="active">Makassar</a></li>
+                <li><a href="#semarang" class="active">Semarang</a></li>
             </ul>
         </div>
     </section>
